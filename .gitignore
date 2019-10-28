@@ -229,4 +229,4 @@ data/models/cerberus/*.*
 .DS_Store
 
 #Ignore dependencies
-vulkanTest/dependencies
+**/dependencies
