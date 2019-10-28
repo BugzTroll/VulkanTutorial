@@ -227,3 +227,6 @@ data/models/cerberus/*.*
 
 # Ignore macOS .DS_Store
 .DS_Store
+
+#Ignore dependencies
+/dependencies
