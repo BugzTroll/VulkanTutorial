@@ -230,3 +230,4 @@ data/models/cerberus/*.*
 
 #Ignore dependencies
 **/dependencies
+*/textures
